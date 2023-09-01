@@ -5,6 +5,8 @@ EchoTrade is a hybrid platform that harmoniously integrates both centralized leg
 
 The profits derived from trading activities are meticulously distributed through smart contracts on the blockchain. This approach is designed to maximize transparency and foster trust within the ecosystem. Notably, the administrative share of this process is not confined to a select few; instead, it is shared among all ECTA token holders who have actively staked their tokens. These token holders receive their share of profits directly and promptly, ensuring that every profit-sharing event is a transparent and equitable experience for all participants.
 
+> You can see the Whitepaper ![here](https://github.com/echotrade-app/whitepaper/wiki).
+
 ## Feature Roadmap
 
 ### ✅ MVP Product
