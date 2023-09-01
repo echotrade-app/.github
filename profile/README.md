@@ -1,8 +1,32 @@
-## EchoTrade
+## Product
+![EchoTrade.app HLD](https://github.com/echotrade-app/whitepaper/assets/20872780/eb952e9e-e13e-486c-a9b6-f4c323a2a321)
 
-EchoTrade uses blockchain to address trust, transparency, and complexity issues between investors and experts. Choose experts, invest, and gain confidence.
+EchoTrade is a hybrid platform that harmoniously integrates both centralized legal entities and decentralized smart contracts. This innovative fusion creates a transparent and secure environment where traders and investors can seamlessly collaborate to harness profit-generating opportunities.
 
-Comming Soon...
+The profits derived from trading activities are meticulously distributed through smart contracts on the blockchain. This approach is designed to maximize transparency and foster trust within the ecosystem. Notably, the administrative share of this process is not confined to a select few; instead, it is shared among all ECTA token holders who have actively staked their tokens. These token holders receive their share of profits directly and promptly, ensuring that every profit-sharing event is a transparent and equitable experience for all participants.
+
+## Feature Roadmap
+
+### ✅ MVP Product
+
+Our primary goal is to launch the MVP and establish a sustainable ecosystem for continuous growth and development. This goal has been meticulously planned and is set to be achieved by the end of 2023.
+
+### 🕸️ ECTA Network
+
+Our vision is to expand our Profit Share Strategy and provide greater transparency in order and position details, enabled by blockchain technology.
+
+### 🚀 Develop Stable Coins { USD, EUR, GBP, ...}
+
+We aim to diversify the stable coins available on our platform, allowing baskets to be created based on various global currencies. This approach reduces reliance on a single currency.
+
+### 📈 Develop Forex Market
+
+Our plan includes offering traders the opportunity to participate in Forex markets. This expansion will open doors to a larger market capacity and increased depth.
+
+### 🤖 AI-Powered Trader Assistant
+
+As our profits are linked to the system's overall performance, we are committed to introducing advanced technological solutions to assist traders in achieving more profitable trading strategies.
+
 
 <!--
 
